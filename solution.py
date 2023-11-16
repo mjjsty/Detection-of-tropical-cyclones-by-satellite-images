@@ -1,0 +1,1 @@
+files = input('path to images:')
